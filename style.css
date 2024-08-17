@@ -20,6 +20,8 @@ body, html {
     align-items: flex-end;
     padding: 10px 0;
     position: relative;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
 }
 
 .nav-item {
